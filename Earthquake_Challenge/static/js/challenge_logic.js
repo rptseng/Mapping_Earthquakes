@@ -206,7 +206,6 @@ legend.onAdd = function() {
 
 // Create variable for GeoJSON tectonic plate data source
 var plateData = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
-// Create variable for GeoJSON major earthquake data source
 
 // Create style parameters
 var myStyle = {
